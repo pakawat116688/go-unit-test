@@ -12,3 +12,4 @@ Unit Testing
 
 lib
 - golang.org/x/tools/cmd/godoc
+- github.com/gofiber/fiber/v2
